@@ -1,7 +1,11 @@
 {
-  "user": {
-    "id": 1,
-    "firstName": "Anthony",
-    "lastName": "Sistilli"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
